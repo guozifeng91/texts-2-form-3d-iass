@@ -16,6 +16,8 @@ and the [Professorship of Structural Design](https://www.arc.ed.tum.de/sd/struct
 
 <br>
 Related publication
+
+- __Karla Saldana Ochoa, Ohlbrock,Patrick Ole Ohlbrock, Pierluigi D′Acunto, Vahid Moosavi__: Beyond typologies, beyond optimization, International Journal of Architectural Computing, 9(3), 466–490, 2021
 - __Zifeng Guo, Karla Saldana Ochoa, Pierluigi D′Acunto__: Enhancing structural form-finding through a text-based AI engine coupled with computational graphic statics, Proceedings of the IASS 2022 conference,  466–490, 2022, Beijing
 
 <br>
