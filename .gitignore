@@ -1,0 +1,17 @@
+# Untracked files:
+
+# large files
+GloVe300/*.npy
+cem-dataset/cem-towers/data.csv
+
+# outputs
+outputs/SOMs/*
+outputs/labels/*
+
+# other github repos.
+python/sompy/*
+python/compas_cem/*
+
+# cache files
+__pycache__
+.ipynb_checkpoints
