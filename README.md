@@ -1,5 +1,7 @@
 # Text2Form3D: Enhancing structural form-finding through a text-based AI engine coupled with computational graphic statics
 
+![sample results](outputs/1.png)
+
 This project introduces Text2Form3D, a machine-learning-based design framework to explore the embedded descriptive representation of structural forms.
 Text2Form3D joins word embeddings with the Combinatorial Equilibrium Modeling (CEM) to autonomously generate new structural solutions in static equilibrium from a user-defined descriptive query.
 The generated structural solutions can be further evaluated by various quantitative and qualitative criteria to constrain the design space towards a solution that fits the designer's preferences.
