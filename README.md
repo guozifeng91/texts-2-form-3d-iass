@@ -13,7 +13,6 @@ The code published in this repository relies on the previous studies of
 - Combinatorial Equilibrium Modeling (https://github.com/OleOhlbrock/CEM)
 - Self-Organizing Map (https://github.com/sevamoo/SOMPY)
 <br>
-<br>
 Related publication
 <br>
 <b>Zifeng Guo, Karla Saldana Ochoa, Pierluigi D′Acunto</b>: Enhancing structural form-finding through a text-based AI engine coupled with computational graphic statics, Proceedings of the IASS 2022 Symposium, 2086–2096, 2022, Beijing
