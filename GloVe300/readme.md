@@ -1,0 +1,3 @@
+# GloVe300 word embedding model
+
+This is a python replica of the [pre-trained GloVe300 word embedding model from the Wolframe Mathematica](https://resources.wolframcloud.com/NeuralNetRepository/resources/GloVe-300-Dimensional-Word-Vectors-Trained-on-Wikipedia-and-Gigaword-5-Data/). The weights (npy format) can be downloaded via [https://storage.googleapis.com/zfguo_pretrained_models/IASS2022/GloVe300/weights.npy](https://storage.googleapis.com/zfguo_pretrained_models/IASS2022/GloVe300/weights.npy)
