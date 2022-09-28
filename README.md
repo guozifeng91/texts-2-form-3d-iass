@@ -32,5 +32,5 @@ This study is based on the previous research of
 
 ## Related publication
 
-- <b>Zifeng Guo, Karla Saldana Ochoa, Pierluigi D′Acunto</b>: [Enhancing structural form-finding through a text-based AI engine coupled with computational graphic statics, Proceedings of the IASS 2022 Symposium, 2086–2096, 2022, Beijing](https://storage.googleapis.com/zf_papers/IASS2022_final_version.pdf)
+- [<b>Zifeng Guo, Karla Saldana Ochoa, Pierluigi D′Acunto</b>, Enhancing structural form-finding through a text-based AI engine coupled with computational graphic statics, Proceedings of the IASS 2022 Symposium, 2086–2096, 2022, Beijing](https://storage.googleapis.com/zf_papers/IASS2022_final_version.pdf)
 <br>
