@@ -29,6 +29,7 @@ This study is based on the previous research of
 - Combinatorial Equilibrium Modeling (https://github.com/OleOhlbrock/CEM)
 - Self-Organizing Map (https://github.com/sevamoo/SOMPY)
 - SDML - Structural Design supported by Machine Learning (https://github.com/pierluigidacunto/SDML)
+- COMPAS CEM (https://github.com/arpastrana/compas_cem)
 
 ## Related publication
 
