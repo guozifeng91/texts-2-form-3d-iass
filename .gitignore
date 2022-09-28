@@ -6,7 +6,7 @@ cem-dataset/cem-towers/data.csv
 
 # outputs
 outputs/SOMs/*
-outputs/labels/*
+# outputs/labels/*
 
 # other github repos.
 python/sompy/*
